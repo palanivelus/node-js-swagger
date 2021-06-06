@@ -1,0 +1,17 @@
+{
+  "name": "js-swagger-demo",
+  "version": "1.0.0",
+  "description": "add swagger to nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "palanivelu samudi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6",
+    "random-id": "^1.0.4"
+  }
+}
